@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 Data was retrieved from the API with useState, useEffect and useRef, and the data was listed.
-Search processes were used by applying the filter method to the data.
+Search processes were used by applying the filter method to the data. This is a basic project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
